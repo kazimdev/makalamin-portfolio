@@ -40,11 +40,11 @@ const Portfolio = () => {
               />
             ),
           },
-          {
-            title: "WordPress Plugins",
-            content: "WordPress Plugins coming soon",
-          },
-          { title: "Custom Web Apps", content: "Coming soon" },
+          // {
+          //   title: "WordPress Plugins",
+          //   content: "WordPress Plugins coming soon",
+          // },
+          // { title: "Custom Web Apps", content: "Coming soon" },
         ]}
       ></Tabs>
 

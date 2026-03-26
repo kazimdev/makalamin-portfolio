@@ -2,7 +2,7 @@
   {
     "id": 3719,
     "title": "DRNS",
-    "content": "\n<p class=\"has-text-align-center\"> DRNS is a Vertically Integrated Apparel and Merchandise Group. I've created some of their web pages using WordPress & Elementor. </p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-1\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://drns.co/\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"../images/portfolio/DRNS.png\" alt=\"\" class=\"wp-image-3713\" width=\"282\" height=\"1024\" /></figure></div>",
+    "content": "\n<p class=\"has-text-align-center\"> DRNS is a Vertically Integrated Apparel and Merchandise Group. I've created some of their web pages using WordPress & Elementor and still working with them on other projects. </p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-1\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://drns.co/\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"../images/portfolio/DRNS.png\" alt=\"\" class=\"wp-image-3713\" width=\"282\" height=\"1024\" /></figure></div>",
     "featuredImage": "../images/portfolio/DRNS.png"
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": 3712,
     "title": "Restaurant Pagode",
-    "content": "\n<p class=\"has-text-align-center\">It&#8217;s a Germany based Restaurant booking and Online Food delivery website</p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-1\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://restaurant-pagode.de/\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"../images/portfolio/Pagode-Restaurant/Pagode-Restaurant-1.png\" alt=\"\" class=\"wp-image-3713\" width=\"282\" height=\"1024\" /></figure></div>",
+    "content": "\n<p class=\"has-text-align-center\">It&#8217;s a Germany based Restaurant booking and Online Food delivery website.  I've created the website using WordPress, Elementor and WooCommerce.</p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-1\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://restaurant-pagode.de/\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large is-resized\"><img decoding=\"async\" loading=\"lazy\" src=\"../images/portfolio/Pagode-Restaurant/Pagode-Restaurant-1.png\" alt=\"\" class=\"wp-image-3713\" width=\"282\" height=\"1024\" /></figure></div>",
     "featuredImage": "../images/portfolio/Pagode-Restaurant/Pagode-Restaurant-2.png"
   },
   {
@@ -68,13 +68,13 @@
   {
     "id": 3651,
     "title": "Senviet Vilsbiburg",
-    "content": "\n<p class=\"has-text-align-center\">Online Food delivery and Restaurant booking website based in Germany</p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-12\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://senviet-vilsbiburg.de/\" target=\"_blank\" rel=\"noreferrer noopener\">View Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><a href=\"https://senviet-vilsbiburg.de/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"254\" height=\"1024\" src=\"https://i.ibb.co/X2nV2Lc/Sen-Viet-Vilsbiburg.png\" alt=\"\" class=\"wp-image-3710\" sizes=\"(max-width: 254px) 100vw, 254px\" /></a></figure></div>",
+    "content": "\n<p class=\"has-text-align-center\">Online Food delivery and Restaurant booking website based in Germany. I've created the website using WordPress, Elementor and a Restaurant Booking plugin.</p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-12\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://senviet-vilsbiburg.de/\" target=\"_blank\" rel=\"noreferrer noopener\">View Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><a href=\"https://senviet-vilsbiburg.de/\" target=\"_blank\" rel=\"noopener\"><img decoding=\"async\" loading=\"lazy\" width=\"254\" height=\"1024\" src=\"https://i.ibb.co/X2nV2Lc/Sen-Viet-Vilsbiburg.png\" alt=\"\" class=\"wp-image-3710\" sizes=\"(max-width: 254px) 100vw, 254px\" /></a></figure></div>",
     "featuredImage": "https://i.ibb.co/X2nV2Lc/Sen-Viet-Vilsbiburg.png"
   },
   {
     "id": 3650,
     "title": "Atlas Webinar Enrollment",
-    "content": "\n<p class=\"has-text-align-center\">A webinar landing page about money making online</p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-13\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-theme-palette-3-background-color has-background wp-element-button\" href=\"https://seo-training-academy.org\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><img decoding=\"async\" src=\"https://i.ibb.co/PQt87H2/Atlas-Demo-Webinar-Enrollment-Seo-Training-Academy-Org-Getting-High-Net-Worth-Clients-To-Buy-Long-Be.png\" alt=\"\" class=\"wp-image-3497\"/></figure></div>\n\n\n<p></p>\n",
+    "content": "\n<p class=\"has-text-align-center\">I created a webinar landing page about money making online for the client.</p>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-13\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-theme-palette-3-background-color has-background wp-element-button\" href=\"https://seo-training-academy.org\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><img decoding=\"async\" src=\"https://i.ibb.co/PQt87H2/Atlas-Demo-Webinar-Enrollment-Seo-Training-Academy-Org-Getting-High-Net-Worth-Clients-To-Buy-Long-Be.png\" alt=\"\" class=\"wp-image-3497\"/></figure></div>\n\n\n<p></p>\n",
     "featuredImage": "https://i.ibb.co/PQt87H2/Atlas-Demo-Webinar-Enrollment-Seo-Training-Academy-Org-Getting-High-Net-Worth-Clients-To-Buy-Long-Be.png"
   },
   {
@@ -82,5 +82,11 @@
     "title": "Angel Tree Care",
     "content": "\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-14\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://angeltreecare.com/\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n\n<p class=\"has-text-align-center\">Angel Tree Care is a tree caring service provider company in the USA. </p>\n\n\n\n<p class=\"has-text-align-center\">The client hired me at Fiverr and I created their website with WordPress and DIVI page builder.</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"249\" height=\"1024\" src=\"https://i.ibb.co/qRDCr4c/Angel-Tree-Care-Quality-Tree-Care-Services.png\" alt=\"\" class=\"wp-image-3704\" sizes=\"(max-width: 249px) 100vw, 249px\" /></figure></div>\n\n\n<p></p>\n",
     "featuredImage": "https://i.ibb.co/qRDCr4c/Angel-Tree-Care-Quality-Tree-Care-Services.png"
+  },
+  {
+    "id": 3647,
+    "title": "SampaWellness",
+    "content": "\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-14\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link wp-element-button\" href=\"https://sampawellness.com/\" target=\"_blank\" rel=\"noreferrer noopener\">View Live Site</a></div>\n</div>\n\n\n\n<p class=\"has-text-align-center\">SampaWellness is a Health, Fitness and GYM service provider in Canada. </p>\n\n\n\n<p class=\"has-text-align-center\">It's one of my early works. The client hired me on Fiverr and I created their website with WordPress and WP Backery page builder.</p>\n\n\n<div class=\"wp-block-image\">\n<figure class=\"aligncenter size-large\"><img decoding=\"async\" loading=\"lazy\" width=\"249\" height=\"1024\" src=\"../images/portfolio/Sampa-Wellness.png\" alt=\"\" class=\"wp-image-3704\" sizes=\"(max-width: 249px) 100vw, 249px\" /></figure></div>\n\n\n<p></p>\n",
+    "featuredImage": "../images/portfolio/Sampa-Wellness.png"
   }
 ]
