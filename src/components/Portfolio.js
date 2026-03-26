@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import Tabs from "./Tabs.js";
 import PortfolioItems from "./Portfolio/PortfolioItems.js";
+import Tabs from "./Tabs.js";
 
 const Portfolio = () => {
   const [showPopup, setShowPopup] = useState(false);
@@ -27,13 +27,18 @@ const Portfolio = () => {
 
   return (
     <section className="portfolio" id="portfolio">
-      <h1>My Works</h1>
+      <h1>My Recent Works</h1>
 
       <Tabs
         tabs={[
           {
             title: "WordPress Websites",
-            content: <PortfolioItems items={portfolios} handlePortfolioClick={handlePortfolioClick} />,
+            content: (
+              <PortfolioItems
+                items={portfolios}
+                handlePortfolioClick={handlePortfolioClick}
+              />
+            ),
           },
           {
             title: "WordPress Plugins",
